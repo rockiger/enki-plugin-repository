@@ -5,6 +5,7 @@
 			"description": "Saves all files when Enki loses focus.",
 			"details": "https://github.com/rockiger/enkiautosave",
 			"author": "Marco Laspe",
+			"version": "0.0.1",
 			"labels": ["theme", "file", "icons"]
 		},
 		{
@@ -12,6 +13,7 @@
 			"description": "Autocompletes open brackets like [], (), {}, \"\", '', “”, ‘’, «», ‹›, and ``.",
 			"details": "https://github.com/rockiger/enkibracketmatcher",
 			"author": "Marco Laspe",
+			"version": "0.0.1",
 			"labels": ["theme", "file", "icons"]
 		},
 		{
@@ -19,6 +21,7 @@
 			"description": "Switch through your files in the style of the Opera web browser.",
 			"details": "https://github.com/rockiger/enkifileswitcher",
 			"author": "Marco Laspe",
+			"version": "0.0.1",
 			"labels": ["theme", "file", "icons"]
 		}
 	]
