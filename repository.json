@@ -1,5 +1,5 @@
 {
-	"packages": [
+	"plugins": [
 		{
 			"name": "Autosave",
 			"description": "Saves all files when Enki loses focus.",
