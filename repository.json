@@ -23,6 +23,14 @@
 			"author": "Marco Laspe",
 			"version": "0.0.1",
 			"labels": ["theme", "file", "icons"]
+		},
+		{
+			"name": "Test Plugin",
+			"description": "Test the plugin for enki pluginmanager install functionality",
+			"details": "https://github.com/rockiger/enkifileswitcher",
+			"author": "Test Programmer",
+			"version": "0.0.1",
+			"labels": ["theme", "file", "icons"]
 		}
 	]
 }
